@@ -1,6 +1,6 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:           </h3>
-<h3>Register Number/Staff Id:          </h3>
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h3>Name: Subhash Gautham G</h3>
+<h3>Register Number: 212224060263</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -14,7 +14,7 @@ If I play perfectly, every time I play I will either win the game, or I will dra
 How might we describe these situations quantitatively? Let's assign a score to the "end game conditions:"
 
 I win, hurray! I get 10 points!
-I lose, shit. I lose 10 points (because the other player gets 10 points)
+I lose... I lose 10 points (because the other player gets 10 points)
 I draw, whatever. I get zero points, nobody gets any points.
 So now we have a situation where we can determine a possible score for any game end state.
 
